@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Add-to-Cart-Counter-with-ReactJS/static/css/main.3397eb92.chunk.css",
+    "main.js": "/Add-to-Cart-Counter-with-ReactJS/static/js/main.93eea586.chunk.js",
+    "main.js.map": "/Add-to-Cart-Counter-with-ReactJS/static/js/main.93eea586.chunk.js.map",
+    "runtime-main.js": "/Add-to-Cart-Counter-with-ReactJS/static/js/runtime-main.bc8e20bf.js",
+    "runtime-main.js.map": "/Add-to-Cart-Counter-with-ReactJS/static/js/runtime-main.bc8e20bf.js.map",
+    "static/js/2.8b5f7658.chunk.js": "/Add-to-Cart-Counter-with-ReactJS/static/js/2.8b5f7658.chunk.js",
+    "static/js/2.8b5f7658.chunk.js.map": "/Add-to-Cart-Counter-with-ReactJS/static/js/2.8b5f7658.chunk.js.map",
+    "static/js/3.057e1568.chunk.js": "/Add-to-Cart-Counter-with-ReactJS/static/js/3.057e1568.chunk.js",
+    "static/js/3.057e1568.chunk.js.map": "/Add-to-Cart-Counter-with-ReactJS/static/js/3.057e1568.chunk.js.map",
+    "index.html": "/Add-to-Cart-Counter-with-ReactJS/index.html",
+    "static/css/main.3397eb92.chunk.css.map": "/Add-to-Cart-Counter-with-ReactJS/static/css/main.3397eb92.chunk.css.map",
+    "static/js/2.8b5f7658.chunk.js.LICENSE.txt": "/Add-to-Cart-Counter-with-ReactJS/static/js/2.8b5f7658.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc8e20bf.js",
+    "static/js/2.8b5f7658.chunk.js",
+    "static/css/main.3397eb92.chunk.css",
+    "static/js/main.93eea586.chunk.js"
+  ]
+}
