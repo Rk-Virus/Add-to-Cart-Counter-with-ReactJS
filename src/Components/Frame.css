@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    margin: 0;
+    padding: 0.5rem;
+}
+
+.frame{
+    background-color: rgb(218, 233, 247);
+    width: auto;
+    height: 80vh;
+    border-bottom: 5px double blue;
+    padding: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    background-color: cornflowerblue;
+    border-radius: 5%;
+    padding: 0em 0.5em;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 3px 4px 5px darkblue;
+}
+
+.numBox{
+    margin: 2rem auto;
+    font-size: 50px;
+}
+
+.buttons{
+    background-color: rgb(150, 181, 238);
+    border-radius: 4%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.btn{
+    padding: 5px;
+    margin: 10px 0px;
+}
+
+.cartBtn{
+    display: flex;
+    justify-content: center;
+    margin: 1em;
+}
